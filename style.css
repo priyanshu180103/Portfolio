@@ -307,6 +307,11 @@ section {
   text-align: center;
 }
 
+.text-container{
+text-align: justify;
+text-justify: inter-word;
+}
+
 .section-container {
   gap: 4rem;
   height: 80%;
